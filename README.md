@@ -18,5 +18,4 @@ It is supposed to include the following:
 
 ## Contributors
 
-* **Gabriel Yin** - *Initial work* - [Gabriel Edogawa](https://github.com/GabrielEdogawa)
-* For any questions please email gyin@smu.edu. 
+* **Gabriel Yin** - *Initial work* - [Gabriel Edogawa](https://github.com/GabrielEdogawa). For any questions please email gyin@smu.edu or ping me in [Gitter](https://gitter.im/). 
