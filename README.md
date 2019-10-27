@@ -3,7 +3,7 @@ This is the test thread of using [gurobipy](https://www.gurobi.com/documentation
 
 ## Prerequisite
 
-First please obtain a Gurobi license and add the Gurobi solver in Python. The latest Anaconda versions of Intel Python and Gurobi are recommended.
+First please obtain a Gurobi license and add the Gurobi solver in Python. See [here](https://www.gurobi.com/downloads/?campaignid=193283256&adgroupid=78789908776&creative=384430929835&keyword=%2Bgurobi%20%2Blicense&matchtype=b&gclid=Cj0KCQjwgNXtBRC6ARIsAIPP7RuBbFS-39QRu_SoVFGnKeAv1J2tg8p9JoY6pvsbZ6vhbP2O1N0KzAUaArVhEALw_wcB) for license installation details. The latest Anaconda versions of [Intel Python](https://software.intel.com/en-us/distribution-for-python) and Gurobi are recommended. 
 
 ## Support Modules
 
