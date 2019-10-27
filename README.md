@@ -1,5 +1,5 @@
 # Gurobi-Python-Code-Transfer
-This is the test thread of using gurobipy for implementing optimization problems.
+This is the test thread of using [gurobipy] (https://www.gurobi.com/documentation/8.1/quickstart_mac/the_gurobi_python_interfac.html) for implementing optimization problems.
 
 ## Prerequisite
 
@@ -18,5 +18,5 @@ It is supposed to include the following:
 
 ## Contributors
 
-* **Gabriel Yin** - *Initial work* [Gabriel Edogawa](https://github.com/GabrielEdogawa)
+* **Gabriel Yin** - *Initial work* - [Gabriel Edogawa](https://github.com/GabrielEdogawa)
 * For any questions please email gyin@smu.edu. 
