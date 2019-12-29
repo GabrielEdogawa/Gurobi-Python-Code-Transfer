@@ -1,0 +1,181 @@
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 17:19:29 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 19:27:41 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 19:50:03 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 19:52:16 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 19:55:11 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 19:55:44 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:01:40 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:04:20 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:09:50 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:10:40 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:11:57 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:12:06 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:12:17 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:48:48 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:49:24 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:52:41 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:53:40 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:58:20 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:58:46 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 20:59:10 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:04:38 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:10:55 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:12:56 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:13:41 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:16:41 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:27:24 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:27:50 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:28:27 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:28:58 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:29:33 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Threads to 8
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 1872 rows, 816 columns and 7590 nonzeros
+Variable types: 528 continuous, 288 integer (288 binary)
+Coefficient statistics:
+  Matrix range     [5e-03, 6e+03]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+03]
+  RHS range        [1e+00, 4e+03]
+Presolve removed 1729 rows and 711 columns
+Presolve time: 0.02s
+Presolved: 143 rows, 105 columns, 413 nonzeros
+Variable types: 105 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 4.390364e+05, 36 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    439036.42741 439036.427  0.00%     -    0s
+
+Explored 0 nodes (36 simplex iterations) in 0.03 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 439036 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.390364274111e+05, best bound 4.390364274111e+05, gap 0.0000%
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 21:37:41 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Threads to 8
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 2064 rows, 816 columns and 7974 nonzeros
+Variable types: 528 continuous, 288 integer (288 binary)
+Coefficient statistics:
+  Matrix range     [5e-03, 6e+03]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+03]
+  RHS range        [1e+00, 4e+03]
+Found heuristic solution: objective 510170.03934
+Presolve removed 1921 rows and 711 columns
+Presolve time: 0.00s
+Presolved: 143 rows, 105 columns, 413 nonzeros
+Variable types: 105 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 4.390364e+05, 36 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    439036.42741 439036.427  0.00%     -    0s
+
+Explored 0 nodes (36 simplex iterations) in 0.02 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 439036 510170 512818 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.390364274111e+05, best bound 4.390364274111e+05, gap 0.0000%

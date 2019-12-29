@@ -1,0 +1,40 @@
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec 29 17:14:23 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Threads to 8
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 3 rows, 4 columns and 8 nonzeros
+Model has 1 quadratic constraint
+Coefficient statistics:
+  Matrix range     [5e-01, 2e+00]
+  QMatrix range    [1e+00, 2e+00]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [4e+00, 2e+01]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.01s
+Presolved: 4 rows, 6 columns, 13 nonzeros
+Presolved model has 1 second-order cone constraint
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 6.000e+00
+ Factor NZ  : 1.000e+01
+ Factor Ops : 3.000e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.20582557e+01 -9.82320422e+00  3.99e+00 3.63e+00  1.68e+01     0s
+   1  -6.50953347e+00 -7.34399190e+00  8.16e-04 8.47e-01  2.19e+00     0s
+   2  -1.38253790e+01 -9.08257530e+00  8.98e-10 2.66e-01  5.21e-01     0s
+   3  -1.57194136e+01 -1.60191229e+01  2.60e-12 1.70e-02  1.18e-01     0s
+   4  -1.61487828e+01 -1.62037995e+01  3.11e-13 1.86e-08  6.88e-03     0s
+   5  -1.61678222e+01 -1.61684293e+01  1.28e-12 2.71e-10  7.59e-05     0s
+   6  -1.61681782e+01 -1.61682383e+01  9.56e-10 5.92e-11  7.52e-06     0s
+   7  -1.61681954e+01 -1.61681969e+01  1.04e-10 2.71e-13  1.94e-07     0s
+
+Barrier solved model in 7 iterations and 0.02 seconds
+Optimal objective -1.61681954e+01
+
