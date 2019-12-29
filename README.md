@@ -1,5 +1,5 @@
 # Gurobi-Python-Code-Transfer
-This is the test thread of using [gurobipy](https://www.gurobi.com/documentation/8.1/quickstart_mac/the_gurobi_python_interfac.html) for implementing optimization problems. The focus is on large-scale general problems.
+This is the test thread of using [gurobipy](https://www.gurobi.com/documentation/8.1/quickstart_mac/the_gurobi_python_interfac.html) for implementing optimization problems. The focus is on large-scale general problems and will leverage power industry applications as demostrations.
 
 ## Prerequisite
 
