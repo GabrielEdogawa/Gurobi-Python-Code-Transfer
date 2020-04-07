@@ -268,3 +268,161 @@ Academic license - for non-commercial use only
 Gurobi 8.1.1 (mac64, Python) logging started Sat Jan 25 18:12:18 2020
 
 Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Sat Jan 25 19:52:00 2020
+
+Academic license - for non-commercial use only
+Changed value of parameter Threads to 8
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 602 rows, 816 columns and 2183 nonzeros
+Variable types: 528 continuous, 288 integer (288 binary)
+Coefficient statistics:
+  Matrix range     [5e-03, 6e+03]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+03]
+  RHS range        [1e+00, 6e+03]
+Presolve removed 239 rows and 384 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Changed value of parameter Threads to 8
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 602 rows, 816 columns and 2183 nonzeros
+Variable types: 528 continuous, 288 integer (288 binary)
+Coefficient statistics:
+  Matrix range     [5e-03, 6e+03]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+03]
+  RHS range        [1e+00, 3e+03]
+Found heuristic solution: objective 392833.79172
+Presolve removed 597 rows and 806 columns
+Presolve time: 0.02s
+Presolved: 5 rows, 10 columns, 15 nonzeros
+Found heuristic solution: objective 333215.03200
+Variable types: 10 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 3.268988e+05, 2 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    326898.83288 326898.833  0.00%     -    0s
+
+Explored 0 nodes (2 simplex iterations) in 0.04 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 326899 333215 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.268988328843e+05, best bound 3.268988328843e+05, gap 0.0000%
+
+Gurobi 8.1.1 (mac64, Python) logging started Sat Jan 25 21:10:50 2020
+
+Academic license - for non-commercial use only
+Changed value of parameter Threads to 8
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 602 rows, 816 columns and 2525 nonzeros
+Variable types: 528 continuous, 288 integer (288 binary)
+Coefficient statistics:
+  Matrix range     [5e-03, 6e+03]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+03]
+  RHS range        [1e+00, 3e+03]
+Found heuristic solution: objective 366999.36589
+Presolve removed 600 rows and 812 columns
+Presolve time: 0.00s
+Presolved: 2 rows, 4 columns, 7 nonzeros
+Found heuristic solution: objective 333478.48177
+Variable types: 4 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 3.268988e+05, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    326898.83288 326898.833  0.00%     -    0s
+
+Explored 0 nodes (1 simplex iterations) in 0.02 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 326899 333478 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.268988328843e+05, best bound 3.268988328843e+05, gap 0.0000%
+
+Gurobi 8.1.1 (mac64, Python) logging started Sat Jan 25 21:12:17 2020
+
+Academic license - for non-commercial use only
+Changed value of parameter Threads to 8
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 2064 rows, 816 columns and 7974 nonzeros
+Variable types: 528 continuous, 288 integer (288 binary)
+Coefficient statistics:
+  Matrix range     [5e-03, 6e+03]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+03]
+  RHS range        [1e+00, 4e+03]
+Found heuristic solution: objective 537228.29106
+Presolve removed 1921 rows and 711 columns
+Presolve time: 0.00s
+Presolved: 143 rows, 105 columns, 413 nonzeros
+Variable types: 105 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 4.390364e+05, 36 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    439036.42741 439036.427  0.00%     -    0s
+
+Explored 0 nodes (36 simplex iterations) in 0.02 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 439036 537228 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.390364274111e+05, best bound 4.390364274111e+05, gap 0.0000%
+
+Gurobi 8.1.1 (mac64, Python) logging started Sat Jan 25 21:13:06 2020
+
+Academic license - for non-commercial use only
+Changed value of parameter Threads to 8
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 1752 rows, 816 columns and 6573 nonzeros
+Variable types: 528 continuous, 288 integer (288 binary)
+Coefficient statistics:
+  Matrix range     [5e-03, 6e+03]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+03]
+  RHS range        [1e+00, 4e+03]
+Found heuristic solution: objective 537821.87671
+Presolve removed 1748 rows and 811 columns
+Presolve time: 0.00s
+Presolved: 4 rows, 5 columns, 17 nonzeros
+Found heuristic solution: objective 447012.41407
+Variable types: 5 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 4.385142e+05, 2 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    438514.24749 438514.247  0.00%     -    0s
+
+Explored 0 nodes (2 simplex iterations) in 0.02 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 438514 447012 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.385142474902e+05, best bound 4.385142474902e+05, gap 0.0000%
+
+Gurobi 8.1.1 (mac64, Python) logging started Sat Jan 25 21:15:43 2020
+
+Academic license - for non-commercial use only
